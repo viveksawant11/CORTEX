@@ -9,5 +9,6 @@ langchain-community
 langchain-huggingface
 langchain-core
 langchain-groq
+huggingface-hub
 beautifulsoup4
 numpy
