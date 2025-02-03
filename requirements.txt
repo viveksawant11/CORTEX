@@ -11,5 +11,7 @@ langchain-core
 langchain-groq
 huggingface-hub
 beautifulsoup4
-youtube-transcript-api
+youtube-transcript-api              
+pytube
 numpy
+yt-dlp
