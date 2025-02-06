@@ -16,3 +16,7 @@ youtube-transcript-api
 pytube
 numpy
 yt-dlp
+ragatouille
+torch 
+torchvision 
+torchaudio
