@@ -20,3 +20,5 @@ ragatouille
 torch 
 torchvision 
 torchaudio
+rank-bm25
+lark
