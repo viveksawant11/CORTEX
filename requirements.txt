@@ -16,6 +16,7 @@ huggingface-hub
 beautifulsoup4
 youtube-transcript-api              
 pytube
+pydantic
 numpy
 yt-dlp
 ragatouille
