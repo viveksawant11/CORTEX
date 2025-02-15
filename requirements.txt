@@ -9,6 +9,7 @@ langchain-community
 langchain-huggingface
 langchain-nomic
 langchain-chroma
+langchain-ollama
 langchain-core
 langchain-groq
 huggingface-hub
@@ -27,3 +28,4 @@ langgraph
 gradio
 langchainhub
 tavily-python
+gpt4all
